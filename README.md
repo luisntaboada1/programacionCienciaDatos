@@ -1,4 +1,9 @@
 # programacionCienciaDatos
+
+Profe, como no conozco a nadie del grupo, y todos las personas con las que hable ya estaban en equipos llenos no consegui equipo,
+asi que no me quedo de otra mas que hacer las tareas semanales yo solo. Le pido porfavor que este parcial me califique asi y el
+siguiente ya consigo gente para entregar los proyectos y tareas
+
 Luis Antonio Nieto Taboada - 3AM1
 Perfil de Github: https://github.com/luisntaboada1
 
